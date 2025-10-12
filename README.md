@@ -1,14 +1,7 @@
-## Hi, Sean here! 👋
+# Hi, Sean here! 👋
 
-I'm in the Data Science stream. Martingales are cool. How good are you in badminton?
+I'm a postgrad at Imperial College London studying towards an MSc in Statistics (Data Science and Machine Learning). I enjoy looking into small issues in [Pandoc](https://pandoc.org/) to better understand its readers and writers, and learn Haskell. Unfortunately, I must put that on the back-burner for now as I grapple with my postgrad studies while applying for grad jobs. 😅
 
-Here is a paragraph with a link - this time with a [link to a video of fighting a giant worm](https://www.youtube.com/watch?v=wNqUSpA7SAc).
+I learned to use Python, R, and Fortran during my undergrad at Bath. I've also grown very familiar with writing Markdown documents and Lua filters for Pandoc and [Quarto](https://quarto.org/) by working with Bath's Mathematics Resource Centre (MASH) for more than a year. These are the technical skills I am most confident in. I also know a bit about LaTeX, HTML, CSS, JavaScript, and React.
 
-Here is another paragraph - this time with a [link to my LinkedIn](https://www.linkedin.com/in/sean-soon-319611216/).
-
-- Here
-- is
-- a
-- list.
-
-Today is September 30, 2025.
+If you're hiring or need help with any of the above, let's get in touch! 
